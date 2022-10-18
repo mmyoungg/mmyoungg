@@ -1,6 +1,6 @@
 <div align=center>
    
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,1,2&height=250&section=header&text=MMYOUNGG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,1,7&height=250&section=header&text=MMYOUNGG&fontSize=70)
 #### Hi there 👋 !
 
 <!--
