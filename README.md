@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 <br>
 
-### Skills
+### Skill Stack
+<img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>
+
     
 
 
