@@ -1,3 +1,5 @@
+<div align=center>
+
 #### Hi there 👋 !
 
 <!--
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Blog & Email
 <a href="https://velog.io/@m_yn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square6&logo=Velog&logoColor=white"/></a>
-<a href="mailto:die199074@gmail.com"><img src="https://img.shields.io/badge/die199074@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:die199074@gmail.com"></a>
+<a href="mailto:die199074@gmail.com"><img src="https://img.shields.io/badge/die199074@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:die199074@gmail.com"></a>                                     
 
 <br>
 
@@ -32,8 +34,8 @@ Here are some ideas to get you started:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmyoungg&show_icons=true&theme=vue) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmyoungg&show_icons=true&theme=buefy)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyoungg&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
+</div>
