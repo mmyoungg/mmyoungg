@@ -1,5 +1,6 @@
 <div align=center>
-
+   
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,1,2&height=250&section=header&text=MMYOUNGG&fontSize=90)
 #### Hi there 👋 !
 
 <!--
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmyoungg&show_icons=true&theme=buefy)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyoungg&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
