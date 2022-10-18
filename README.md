@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Skill Stack
-<img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>
-
+<img src="https://img.shields.io/badge/Java-20C997?style=flat-square6&color=FD3A5C"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square6&logo=Velog&logoColor=black"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square6&logo=HTML5&logoColor=white"/>
     
 
 
