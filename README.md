@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmyoungg&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmyoungg&show_icons=true&theme=vue) 
 
 
 
