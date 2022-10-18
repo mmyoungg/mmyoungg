@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://velog.io/@m_yn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square6&logo=Velog&logoColor=white"/></a>
-
 <a href="mailto:die199074@gmail.com">
     <img 
-        src="https://img.shields.io/badge/die199074@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:die199074@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="https://img.shields.io/badge/die199074@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:die199074@gmail.com"/>
 
 
 
-![Gmail Badge](https://img.shields.io/badge/die199074@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:die199074@gmail.com)
+
 
